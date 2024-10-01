@@ -1,0 +1,14 @@
+# Gerador de Tabuada
+
+Este é um programa que gera a tabuada de um número informado pelo usuário. É uma aplicação de console que demonstra o uso de loops e interação com o usuário.
+
+## Funcionalidades
+
+- Permite ao usuário inserir um número.
+- Exibe a tabuada desse número de 1 a 10.
+
+## Como Usar
+
+1. Clone o repositório:
+   bash
+   git clone https://github.com/seu_usuario/seu_repositorio.git
