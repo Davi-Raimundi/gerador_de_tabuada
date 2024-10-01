@@ -1,0 +1,8 @@
+Gerador de Tabuada
+
+Este projeto consiste em um programa que gera a tabuada de um número informado pelo usuário. O usuário insere um número e o programa calcula e exibe a multiplicação desse número de 1 a 10.
+
+Funcionalidades:
+
+O usuário insere um número.
+O programa gera e exibe a tabuada desse número de 1 a 10.
